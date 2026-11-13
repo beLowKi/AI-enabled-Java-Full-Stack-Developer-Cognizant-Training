@@ -3,16 +3,16 @@
 ## Prompt Type Reference
 
 | Code | Prompt type | Clue to spot it |
-| -------- | -------- | -------- |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+|---|---|---|
+| ZS | Zero-shot | A plain task or question, with no examples, role, context, format or limits |
+| FS | One-shot / few-shot | One or more input → output examples before the new input |
+| RO | Role / persona | "You are…", "Act as…", "Pretend you are…" |
+| IN | Instruction | Numbered or ordered steps the model must carry out |
+| CT | Chain-of-thought | "Step by step", "reason through", "show your working" before the answer |
+| CX | Contextual | Background facts, data, documents or the situation supplied with the task |
+| SO | Structured output | A required shape: JSON, table, CSV, template, set columns |
+| PC | Prompt chaining | Several prompts in sequence, each using the previous output |
+| CN | Constraint / negative | Limits on length, scope or words, or "do not…" rules |
 
 ## Demo-Worksheet
 
