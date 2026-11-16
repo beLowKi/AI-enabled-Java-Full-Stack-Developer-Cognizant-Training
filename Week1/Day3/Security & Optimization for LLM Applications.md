@@ -4,4 +4,4 @@
 - [[Prompt Injection Prevention]]
 - [[Input Validation & Sanitization]]
 - [[Strengthening Internal Prompts]]
-- [[PII Masking]]
+- [[Week1/Day3/PII Masking]]
