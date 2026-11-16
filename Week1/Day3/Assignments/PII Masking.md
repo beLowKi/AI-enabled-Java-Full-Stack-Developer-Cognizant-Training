@@ -138,14 +138,14 @@ My order E -> C -> G -> A -> F -> D -> B
 
 ### 5.2 Leak Check BEFORE Sending
 
-■  John
-■  Smith
-■  john.smith@mail.com
-■  j.smith@work.org
-■  647-555-0111  and  0111
-■  15 Queen Street
-■  5500 0000 0000 0004
-■  987-654-321
+- ■  John
+- ■  Smith
+- ■  john.smith@mail.com
+- ■  j.smith@work.org
+- ■  647-555-0111  and  0111
+- ■  15 Queen Street
+- ■  5500 0000 0000 0004
+- ■  987-654-321
 
 ### 5.3 Live Experiment With an AI Chat
 
