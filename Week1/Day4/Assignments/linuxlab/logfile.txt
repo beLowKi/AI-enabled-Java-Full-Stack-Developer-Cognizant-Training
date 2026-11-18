@@ -1,0 +1,5 @@
+10:01 info: server started
+10:02 error: disk almost full
+10:15 error: connection timed out
+10:30 info: backup done
+10:40 error: login failed for user bob
