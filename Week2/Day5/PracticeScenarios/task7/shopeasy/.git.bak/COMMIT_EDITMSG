@@ -1,0 +1,32 @@
+# This is a combination of 4 commits.
+# This is the 1st commit message:
+
+Sqashing commits
+
+# This is the commit message #2:
+
+WIP hello.java
+
+# This is the commit message #3:
+
+WIP hello.java
+
+# This is the commit message #4:
+
+WIP hello.c
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Wed Nov 18 15:39:31 2026 -0600
+#
+# interactive rebase in progress; onto 02c183a
+# Last commands done (4 commands done):
+#    squash 14b6b4b WIP hello.java
+#    squash 5f88e43 WIP hello.c
+# No commands remaining.
+# You are currently rebasing branch 'feature/checkout' on '02c183a'.
+#
+# Changes to be committed:
+#	new file:   hello.c
+#

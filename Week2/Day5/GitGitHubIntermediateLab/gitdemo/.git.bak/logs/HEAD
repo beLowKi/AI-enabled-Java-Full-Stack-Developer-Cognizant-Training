@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 f12f7320c8ff6fa39c7277e98e1f3d39dc59eeac beLowKi <Mmarberry123@gmail.com> 1795026438 -0600	clone: from https://github.com/fortrainees2020/gitdemo.git
+f12f7320c8ff6fa39c7277e98e1f3d39dc59eeac f12f7320c8ff6fa39c7277e98e1f3d39dc59eeac beLowKi <Mmarberry123@gmail.com> 1795026581 -0600	checkout: moving from main to feature/employee-management
+f12f7320c8ff6fa39c7277e98e1f3d39dc59eeac 6513e755a75a5d2ac92d62120525b2c5ca48333f beLowKi <Mmarberry123@gmail.com> 1795026837 -0600	commit: Updated src/ and docs/ files
+6513e755a75a5d2ac92d62120525b2c5ca48333f 79da63eab32acf18f357fbfe0576420c2351904f beLowKi <Mmarberry123@gmail.com> 1795026961 -0600	commit: Updated Employee.java and EmployeeService.java
+79da63eab32acf18f357fbfe0576420c2351904f 79da63eab32acf18f357fbfe0576420c2351904f beLowKi <Mmarberry123@gmail.com> 1795027256 -0600	reset: moving to HEAD
+79da63eab32acf18f357fbfe0576420c2351904f e1d46bd116d7eea6e5055dcd143f816b314508f2 beLowKi <Mmarberry123@gmail.com> 1795027351 -0600	commit: Renamed TeamManager.java and removed Department.java
+e1d46bd116d7eea6e5055dcd143f816b314508f2 f12f7320c8ff6fa39c7277e98e1f3d39dc59eeac beLowKi <Mmarberry123@gmail.com> 1795027628 -0600	checkout: moving from feature/employee-management to main
+f12f7320c8ff6fa39c7277e98e1f3d39dc59eeac f58d3c114cdf0288b3cd7ba17e790bec05aec648 beLowKi <Mmarberry123@gmail.com> 1795027639 -0600	pull origin main: Fast-forward
+f58d3c114cdf0288b3cd7ba17e790bec05aec648 e1d46bd116d7eea6e5055dcd143f816b314508f2 beLowKi <Mmarberry123@gmail.com> 1795027652 -0600	checkout: moving from main to feature/employee-management
+e1d46bd116d7eea6e5055dcd143f816b314508f2 f58d3c114cdf0288b3cd7ba17e790bec05aec648 beLowKi <Mmarberry123@gmail.com> 1795027793 -0600	rebase (start): checkout origin/main
+f58d3c114cdf0288b3cd7ba17e790bec05aec648 8d5de8d70a25d568660d75aeac29f57dd6c98706 beLowKi <Mmarberry123@gmail.com> 1795027793 -0600	rebase (pick): Updated src/ and docs/ files
+8d5de8d70a25d568660d75aeac29f57dd6c98706 d1421959ff00f1eeb9495a5d93b384b8002fb310 beLowKi <Mmarberry123@gmail.com> 1795027793 -0600	rebase (pick): Updated Employee.java and EmployeeService.java
+d1421959ff00f1eeb9495a5d93b384b8002fb310 9ffa28193e248aa0936f39946ed3155b954609e8 beLowKi <Mmarberry123@gmail.com> 1795027793 -0600	rebase (pick): Renamed TeamManager.java and removed Department.java
+9ffa28193e248aa0936f39946ed3155b954609e8 9ffa28193e248aa0936f39946ed3155b954609e8 beLowKi <Mmarberry123@gmail.com> 1795027793 -0600	rebase (finish): returning to refs/heads/feature/employee-management
+9ffa28193e248aa0936f39946ed3155b954609e8 9ffa28193e248aa0936f39946ed3155b954609e8 beLowKi <Mmarberry123@gmail.com> 1795027873 -0600	reset: moving to HEAD
+9ffa28193e248aa0936f39946ed3155b954609e8 9ea55af1e1d34c01d4134e0f96f23fe47990b302 beLowKi <Mmarberry123@gmail.com> 1795027903 -0600	pull origin feature/employee-management: Merge made by the 'ort' strategy.
+9ea55af1e1d34c01d4134e0f96f23fe47990b302 f58d3c114cdf0288b3cd7ba17e790bec05aec648 beLowKi <Mmarberry123@gmail.com> 1795028258 -0600	checkout: moving from feature/employee-management to main
+f58d3c114cdf0288b3cd7ba17e790bec05aec648 f58d3c114cdf0288b3cd7ba17e790bec05aec648 beLowKi <Mmarberry123@gmail.com> 1795028258 -0600	checkout: moving from main to feature/project-status
+f58d3c114cdf0288b3cd7ba17e790bec05aec648 678e55a9f279f8222b22918d0fd53dc3ee78c36e beLowKi <Mmarberry123@gmail.com> 1795028323 -0600	commit: Updated project status
+678e55a9f279f8222b22918d0fd53dc3ee78c36e f58d3c114cdf0288b3cd7ba17e790bec05aec648 beLowKi <Mmarberry123@gmail.com> 1795028328 -0600	checkout: moving from feature/project-status to main
+f58d3c114cdf0288b3cd7ba17e790bec05aec648 c6552c4a0e2b6d324e452e4ccffea6ba41b18bc7 beLowKi <Mmarberry123@gmail.com> 1795028367 -0600	commit: Updated project status
+c6552c4a0e2b6d324e452e4ccffea6ba41b18bc7 a005413b10ed3b4f7732b38a9005c9e60e1b67a6 beLowKi <Mmarberry123@gmail.com> 1795028567 -0600	commit (merge): Updated project status
+a005413b10ed3b4f7732b38a9005c9e60e1b67a6 678e55a9f279f8222b22918d0fd53dc3ee78c36e beLowKi <Mmarberry123@gmail.com> 1795028611 -0600	checkout: moving from main to feature/project-status
+678e55a9f279f8222b22918d0fd53dc3ee78c36e 9ea55af1e1d34c01d4134e0f96f23fe47990b302 beLowKi <Mmarberry123@gmail.com> 1795028637 -0600	checkout: moving from feature/project-status to feature/employee-management
+9ea55af1e1d34c01d4134e0f96f23fe47990b302 a005413b10ed3b4f7732b38a9005c9e60e1b67a6 beLowKi <Mmarberry123@gmail.com> 1795028648 -0600	checkout: moving from feature/employee-management to main
+a005413b10ed3b4f7732b38a9005c9e60e1b67a6 41bb6a21fbe8c0d03b529fa98fa5c91cab182635 beLowKi <Mmarberry123@gmail.com> 1795028677 -0600	pull origin main: Merge made by the 'ort' strategy.
+41bb6a21fbe8c0d03b529fa98fa5c91cab182635 9ea55af1e1d34c01d4134e0f96f23fe47990b302 beLowKi <Mmarberry123@gmail.com> 1795028913 -0600	checkout: moving from main to feature/employee-management
+9ea55af1e1d34c01d4134e0f96f23fe47990b302 41bb6a21fbe8c0d03b529fa98fa5c91cab182635 beLowKi <Mmarberry123@gmail.com> 1795028922 -0600	checkout: moving from feature/employee-management to main
