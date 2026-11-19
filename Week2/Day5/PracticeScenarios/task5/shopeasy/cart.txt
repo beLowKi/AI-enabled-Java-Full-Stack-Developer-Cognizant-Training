@@ -1,0 +1,4 @@
+add item
+To be unstaged
+New Item
+FIXED
