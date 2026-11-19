@@ -1,4 +1,3 @@
-
 ## Business scenario
 
 You have joined the development team at TechNova Solutions. The team is building an Employee Management System for the HR department. The source code is maintained in GitHub, and developers use branches, commits, pushes, pulls, and pull requests to collaborate.

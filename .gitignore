@@ -1,2 +1,6 @@
 # Obsidian config files
 .obsidian/
+
+# Nested repositories without submodules
+./Week1/Week1/Day5/PracticeScenarios
+./Week1/Week1/Day5/GitGitHubIntermediateLab/gitdemo
