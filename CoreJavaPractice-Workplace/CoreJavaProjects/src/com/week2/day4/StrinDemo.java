@@ -1,4 +1,4 @@
-package com.day6;
+package com.week2.day4;
 
 public class StrinDemo {
 	

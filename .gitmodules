@@ -1,3 +1,6 @@
 [submodule "Week1/Day5/GitGitHubIntermediateLab/gitdemo"]
 	path = Week1/Day5/GitGitHubIntermediateLab/gitdemo
 	url = https://github.com/beLowKi/revature-gitdemo.git
+[submodule "CoreJavaPractice-Workplace/BankingManagementSystem"]
+	path = CoreJavaPractice-Workplace/BankingManagementSystem
+	url = https://github.com/beLowKi/Revature-BankingManagementSystem.git
