@@ -1,0 +1,4 @@
+2026-11-25 10:16:20,442 TRACE [main] c.c.UseLogging [UseLogging.java:14] - This is a trace message
+2026-11-25 10:16:20,447 DEBUG [main] c.c.UseLogging [UseLogging.java:15] - This is a debug message
+2026-11-25 10:16:20,448 INFO [main] c.c.UseLogging [UseLogging.java:16] - This is an info message
+2026-11-25 10:16:20,448 ERROR [main] c.c.UseLogging [UseLogging.java:17] - This is an error message
